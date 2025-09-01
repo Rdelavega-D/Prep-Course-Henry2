@@ -1,2 +1,1 @@
-# Prep-Course-Henry2
-Este es un repositorio de prueba en git hub 
+Este proyecto es una prueba de como crear un repositorio y como clonarlo a mi repositorio local 2
